@@ -1,0 +1,4 @@
+name: SDCommandBlocker
+version: '${project.version}'
+main: co.shanedev.sdcommandblocker.SDCommandBlocker
+api-version: '1.20'
