@@ -15,5 +15,5 @@ Prefix: "&f&lBLOCKED &8&l» "
 #NOTE: such as "/pl" and "/plugins"; "/plugin" would be blocked because it contains the blocked command.
 BlockedCommandsMessage: '&cThis command is blocked!'
 Blocked-Commands:
-  - "/gamemode"
-  - "/pl"
+  - "/BlockedCommand1"
+  - "/BlockedCommand2"
